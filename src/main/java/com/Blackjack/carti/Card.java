@@ -1,4 +1,4 @@
-package com.Blackjack.carti;
+package com.Blackjack.com.Blackjack.carti;
 
 public class Card {
     private Simbol simbol;

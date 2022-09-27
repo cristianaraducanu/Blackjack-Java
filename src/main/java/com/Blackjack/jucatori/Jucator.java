@@ -1,9 +1,9 @@
-package com.Blackjack.jucatori;
+package com.Blackjack.com.Blackjack.jucatori;
 
-import com.Blackjack.joc.Mana;
-import com.Blackjack.carti.Card;
-import com.Blackjack.carti.PachetCarti;
-import com.Blackjack.carti.ZeroCartiRamaseException;
+import com.Blackjack.com.Blackjack.joc.Mana;
+import com.Blackjack.com.Blackjack.carti.Card;
+import com.Blackjack.com.Blackjack.carti.PachetCarti;
+import com.Blackjack.com.Blackjack.carti.ZeroCartiRamaseException;
 
 public class Jucator {
     protected Mana mana;

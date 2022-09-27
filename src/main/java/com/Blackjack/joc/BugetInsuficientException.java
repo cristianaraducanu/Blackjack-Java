@@ -1,4 +1,4 @@
-package com.Blackjack.joc;
+package com.Blackjack.com.Blackjack.joc;
 
 public class BugetInsuficientException extends Exception {
     public BugetInsuficientException(String mesaj) {

@@ -1,4 +1,4 @@
-package com.Blackjack.joc;
+package com.Blackjack.com.Blackjack.joc;
 
 public class HitImposibilException extends Exception {
     public HitImposibilException(String mesaj) {

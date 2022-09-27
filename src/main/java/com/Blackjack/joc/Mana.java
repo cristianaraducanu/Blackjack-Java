@@ -1,6 +1,6 @@
-package com.Blackjack.joc;
+package com.Blackjack.com.Blackjack.joc;
 
-import com.Blackjack.carti.Card;
+import com.Blackjack.com.Blackjack.carti.Card;
 
 import java.util.ArrayList;
 import java.util.List;

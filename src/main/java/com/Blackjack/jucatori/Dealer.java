@@ -1,6 +1,6 @@
-package com.Blackjack.jucatori;
+package com.Blackjack.com.Blackjack.jucatori;
 
-import com.Blackjack.joc.Mana;
+import com.Blackjack.com.Blackjack.joc.Mana;
 
 public class Dealer extends Jucator {
     private boolean blackjack = false;

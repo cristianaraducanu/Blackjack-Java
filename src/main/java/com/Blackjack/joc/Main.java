@@ -1,10 +1,10 @@
-package com.Blackjack.joc;
+package com.Blackjack.com.Blackjack.joc;
 
-import com.Blackjack.carti.InsuficienteCartiRamase;
-import com.Blackjack.carti.PachetCarti;
-import com.Blackjack.jucatori.Dealer;
-import com.Blackjack.jucatori.Utilizator;
-import com.Blackjack.carti.ZeroCartiRamaseException;
+import com.Blackjack.com.Blackjack.carti.InsuficienteCartiRamase;
+import com.Blackjack.com.Blackjack.carti.PachetCarti;
+import com.Blackjack.com.Blackjack.jucatori.Dealer;
+import com.Blackjack.com.Blackjack.jucatori.Utilizator;
+import com.Blackjack.com.Blackjack.carti.ZeroCartiRamaseException;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

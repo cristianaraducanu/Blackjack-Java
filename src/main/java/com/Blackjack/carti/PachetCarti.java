@@ -1,4 +1,4 @@
-package com.Blackjack.carti;
+package com.Blackjack.com.Blackjack.carti;
 
 import java.util.ArrayList;
 import java.util.Collections;

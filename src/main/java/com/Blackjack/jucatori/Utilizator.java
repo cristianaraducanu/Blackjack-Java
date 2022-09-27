@@ -1,8 +1,8 @@
-package com.Blackjack.jucatori;
+package com.Blackjack.com.Blackjack.jucatori;
 
-import com.Blackjack.joc.BugetInsuficientException;
-import com.Blackjack.joc.Mana;
-import com.Blackjack.carti.ZeroCartiRamaseException;
+import com.Blackjack.com.Blackjack.joc.BugetInsuficientException;
+import com.Blackjack.com.Blackjack.joc.Mana;
+import com.Blackjack.com.Blackjack.carti.ZeroCartiRamaseException;
 
 public class Utilizator extends Jucator {
     private final String nume;
